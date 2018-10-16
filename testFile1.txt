@@ -1,0 +1,17 @@
+This is a full-time position, but if you prefer to start part-time with us, we can also consider it as an option.
+
+We are looking for people in software development with bright and curious minds who are ready to join our growing team of developers and to collaborate with our Qt and Quality Assurance teams.
+
+You will work from home with mostly flexible hours. You must, however, be available to attend the team meeting, which is held at approximately 6:00 AM (GMT), and then work afterward
+
+YOU WILL BE RESPONSIBLE FOR:
+
+- Building a desktop application that tracks user activity on the computer. 
+- Developing monitoring apps for Windows and Mac. 
+THE BEST MATCH FOR THIS JOB HAS:
+
+- Experience in creating enterprise applications for Windows and Mac. 
+- Experience in creating background services for Windows and Mac. 
+- Their own Mac hardware with multiple monitors. 
+- Experience with Qt, Objective-C, and AppleScript. 
+- The ability to work in a remote team.
